@@ -5,7 +5,7 @@ This is an initial implementation of an ACME-based CA. The [ACME protocol](https
 
 
 [![Build Status](https://travis-ci.org/letsencrypt/boulder.svg)](https://travis-ci.org/letsencrypt/boulder)
-[![Coverage Status](https://coveralls.io/repos/RasPat1/boulder/badge.svg)](https://coveralls.io/r/letsencrypt/boulder)
+[![Coverage Status](https://coveralls.io/repos/RasPat1/boulder/badge.svg)](https://coveralls.io/r/RasPat1/boulder)
 [![Docker Repository on Quay.io](https://quay.io/repository/letsencrypt/boulder/status "Docker Repository on Quay.io")](https://quay.io/repository/letsencrypt/boulder)
 
 Docker
